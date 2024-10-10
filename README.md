@@ -1,1 +1,3 @@
 # Latihan-OOP2
+mohon maaf pa penjelasan menyusul...
+MAAF
